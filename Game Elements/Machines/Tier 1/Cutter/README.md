@@ -1,6 +1,5 @@
-### Details.
+### Size Details.
 
--# Size:
 - ??
 
 ### Production.

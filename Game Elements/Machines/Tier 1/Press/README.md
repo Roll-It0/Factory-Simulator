@@ -5,7 +5,7 @@
 - Length: 5 units.
 - Height: 3 units.
 - Notes: Uses standard 1x1 blocks for measurement.
-![image](?)
+![image](https://github.com/Roll-It0/Factory-Simulator/raw/refs/heads/main/Game%20Elements/Machines/Tier%201/Press/Screenshot_20260517-104228.png)
 
 ### Production.
 

@@ -1,6 +1,10 @@
 ### Size Details.
 
-- Footprint: 4x2 units
+- Footprint: 4x2x2 units.
+- Width: 4 units.
+- Length: 2 units.
+- Height: 2 units.
+
 - Notes: Uses standard 1x1 blocks for measurement.
 ![image](https://github.com/Roll-It0/Factory-Simulator/raw/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-095519.png)
 

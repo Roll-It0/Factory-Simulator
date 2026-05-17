@@ -1,4 +1,5 @@
 ### Size Details.
+
 - Footprint: 4x2 units
 - Notes: Uses standard 1x1 blocks for measurement.
 ![image](https://github.com/Roll-It0/Factory-Simulator/raw/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-095519.png)

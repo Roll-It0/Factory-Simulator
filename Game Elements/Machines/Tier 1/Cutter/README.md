@@ -14,3 +14,7 @@
 
 - Wood Boards Example:
 ![image](https://raw.githubusercontent.com/Roll-It0/Factory-Simulator/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-091641.jpg)
+- Stone Stab Example:
+![image](https://github.com/Roll-It0/Factory-Simulator/raw/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-094655.png)
+- Stone Tiles Example:
+![image](https://github.com/Roll-It0/Factory-Simulator/raw/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-094729.png)

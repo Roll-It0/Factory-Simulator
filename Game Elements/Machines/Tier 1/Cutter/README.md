@@ -13,4 +13,5 @@
 
 ### Example Set-up.
 
-- ![Wood Boards](https://raw.githubusercontent.com/Roll-It0/Factory-Simulator/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-091641.jpg)
+- Wood Boards Example:
+![image](https://raw.githubusercontent.com/Roll-It0/Factory-Simulator/refs/heads/main/Game%20Elements/Machines/Tier%201/Cutter/Screenshot_20260517-091641.jpg)
